@@ -31,6 +31,8 @@ body {
 }
 footer h4{
     margin-top: 10px;
+    border-bottom: white 1px solid;
+    padding-bottom: 5px;
 }
 footer ul li{
     list-style-type: none;
@@ -40,6 +42,11 @@ footer ul {
 }
 footer p{
     margin-bottom: 5px;
+}
+#footer-bottom{
+    border-top: white 1px solid;
+    margin-top: 30px;
+    padding-bottom: 10px;
 }
 .dropdown:hover .dropdown-menu {
     display: block;
